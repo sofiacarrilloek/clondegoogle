@@ -22,4 +22,4 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 Aprende a utilizar las etiquetas de HTML5 y CSS3
 
 ## 4. Link a demo
-Aqui puedes visualizar mi proyecto terminado: [Clonación de google](https://github.com/sofiacarrilloek/clondegoogle/assets/44104940/74626ed1-a965-49b3-abfc-665a936aa411)
+Aqui puedes visualizar mi proyecto terminado: [Clonación de google](google.com)
