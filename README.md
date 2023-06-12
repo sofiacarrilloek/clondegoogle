@@ -11,11 +11,15 @@
 ****
 
 ## 1. Intro
-Htn
+HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los días. Incluso, este sitio web en donde estás viendo este contenido está construido con HTLM y CSS. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google
+
+* Header: Sección que involucra la foto de perfil, íconos y el menú con hipervínculos.
+* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, íconos y botones.
+* Footer: Sección que incluye hipervínculos al final de la página.
 
 ##
 ## 3. Objetivo del proyecto
 Aprende a utilizar las etiquetas de HTML5 y CSS3
 
 ## 4. Link a demo
-Aqui puedes visualizar mi proyecto terminado:
+Aqui puedes visualizar mi proyecto terminado: [Clonación de google](https://github.com/sofiacarrilloek/clondegoogle/assets/44104940/74626ed1-a965-49b3-abfc-665a936aa411)
